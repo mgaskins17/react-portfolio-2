@@ -1,0 +1,42 @@
+body {
+  background-image: url(./Assets/background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+#msgInput {
+  height: 200px;
+}
+
+.card {
+  width: 18rem;
+}
+
+.card-img-top {
+  height: 300 px;
+}
+
+h2 {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
